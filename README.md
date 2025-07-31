@@ -2,14 +2,14 @@
 
 Welcome to the command-centric toolkit and service engine for next-gen [ethical hacking], [automation], and [crypto] payment flows.  
 This is the hub, and these are the spokes:
-# Spoke Index
+# [void-ops]: Project Spokes Index
 
-- [pentestbot-rust]: Telegram CLI bot for pentesting automation
-- [auto-pay-bot]: Accepts [crypto payments] and triggers “deliverable unlock”
-- [discord-auditor]: Joins Discord, runs checklist, posts security/ops onboarding
-- [ctf-helper-bot]: Bulk-payload spammer for CTFs/demos
-- [infra-backup]: Nightly cron-based backup of configs/scripts/secrets (with restore/self-test cmd)
+- [pentestbot-rust]: Telegram automation for pentesting.
+- [auto-pay-bot]: Crypto payments for unlockable workflows.
+- [discord-auditor]: Discord onboarding/security bot.
+- [ctf-helper-bot]: CTF/scripts demo payload spammer.
+- [infra-backup]: Automated backup for configs/scripts.
 
-**See `/roadmaps/` for feature planning and open issues!**
+Each spoke has a roadmap and context file—update as your work evolves!
 
 _Discord: brigidvoid#xxxx · Telegram: @voidpentest · Crypto preferred_
