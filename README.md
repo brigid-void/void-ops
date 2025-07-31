@@ -1,12 +1,14 @@
 # [void-ops] — CLI-Driven Security Automation by [brigid-void]
 
 Welcome to the command-centric toolkit and service engine for next-gen [ethical hacking], [automation], and [crypto] payment flows.  
-<Brand tagline here>
+This is the hub, and these are the spokes:
+# Spoke Index
 
-**Project Spokes:**
-- [pentestbot-rust](https://github.com/brigid-void/pentestbot-rust): Custom Telegram automation for network recon.
-- [auto-pay-bot]: Crypto payment to access state-of-the-art scripts/reporting.
-- [ctf-helper-bot]: Bulk CTF payloads, shell drop copies for teaching/hustling.
+- [pentestbot-rust]: Telegram CLI bot for pentesting automation
+- [auto-pay-bot]: Accepts [crypto payments] and triggers “deliverable unlock”
+- [discord-auditor]: Joins Discord, runs checklist, posts security/ops onboarding
+- [ctf-helper-bot]: Bulk-payload spammer for CTFs/demos
+- [infra-backup]: Nightly cron-based backup of configs/scripts/secrets (with restore/self-test cmd)
 
 **See `/roadmaps/` for feature planning and open issues!**
 
